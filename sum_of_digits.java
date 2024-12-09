@@ -17,14 +17,5 @@ public class sum_of_digits {
         }
         System.out.println("Total sum is: "+sum);
 
-
-
-//        //reverse an array
-//        int arr[]={12, 34,76,91,345,78};
-//
-//        for (int i = arr.length-1; i >=0; i--) {
-//            System.out.println(arr[i]);
-//        }
-
    }
 }
